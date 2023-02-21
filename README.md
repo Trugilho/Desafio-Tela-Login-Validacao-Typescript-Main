@@ -1,0 +1,3 @@
+### Implementando Uma Tela de Login Com Validação Usando TypeScript
+
+## Chegou a hora de deixar os seus projetos com React cada vez mais poderosos e profissionais! Neste Desafio, foi criada uma tela de login usando TypeScript e implementando uma etapa de autenticação e validação dentro do React. Neste desafio foram aplicados todos os conceitos aprendidos durante o mÓdulo Typescript realizado na Formação React Developer da DIO.
